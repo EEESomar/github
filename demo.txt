@@ -1,1 +1,4 @@
 hello this is my second github file
+
+def add(x,y):
+	return x + y
